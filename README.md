@@ -6,6 +6,6 @@ This project aims to build a machine learning model that predicts whether a cust
 The dataset consists of 10,000 bank customers from different countries, along with features such as credit score, age, tenure, account balance, and whether they have exited the bank. The goal is to leverage this data to create an effective predictive model that can assist the bank in identifying customers at risk of leaving, enabling timely interventions.
 
 *Objectives:
-Understand the factors that influence customer churn.
-Build a predictive model to classify customers as churned or non-churned.
-Provide insights into customer behavior to help the bank improve its retention strategies.
+- Understand the factors that influence customer churn.
+- Build a predictive model to classify customers as churned or non-churned.
+- Provide insights into customer behavior to help the bank improve its retention strategies.
